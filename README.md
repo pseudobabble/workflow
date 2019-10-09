@@ -2,7 +2,7 @@
 A small pure python package for constraining workflow states
 
 
-Based on a PHP implementation done Tom Weldon
+Based on a PHP implementation by Tom Weldon
 
 1. Define a configuration
 ```
